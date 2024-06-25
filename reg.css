@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+h1{
+    color: #375903;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif
+}
+body{
+    background-image:url(forest.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+form{
+    height: 30rem;
+    width: 25rem;
+    background-color:#E7E897;
+    border: 1px solid black;
+    border-radius: 10%;
+    box-shadow: 0 10px 30px 0;
+
+}
+label{
+    margin: 10%;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+input{
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-bottom: 5%;
+    width: 80%;
+    border: none;
+    outline: none;
+    background: transparent;
+    border-bottom: solid 2px;
+
+}
+button{
+   
+   width: 50%;
+   padding: 5px;
+   border-radius: 7px;
+   margin: 5% auto;
+   margin-left: 25%;
+   background-color: #375903;
+   color: white;
+   
+}
+#login{ 
+    margin-left: 10%;  
+}
