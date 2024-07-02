@@ -1,0 +1,64 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-image:url("forest.jpg");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-size: 50px;
+    color:#375903;
+   text-align: center;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  margin-bottom: 7%;
+}
+label{
+    margin-left: 10%;
+   font-family:Arial, Helvetica, sans-serif;
+
+}
+form{
+    height: 30rem;
+    width: 25rem;
+    background-color: #E7E897;
+    border: 1px solid black;
+    border-radius: 10%;
+    box-shadow:0 10px 30px 0;
+}
+button{
+    padding: 5px;
+    width:50%;
+    margin-left: 25%;
+    margin-bottom:5%;
+    border-radius: 5px;
+    color: white;
+   background-color: #375903;
+   font-family: sans-serif;
+   
+   text-decoration: none;
+}
+input{
+    margin-left: 10%;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    width: 80%;
+    padding: 8px;
+    border:solid black 2px;
+    border: none;
+    outline: none;
+    background: transparent;
+    border-bottom: solid 2px;
+   
+}
+a{
+    margin-left:10%;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+
+}
+
+
+
+
